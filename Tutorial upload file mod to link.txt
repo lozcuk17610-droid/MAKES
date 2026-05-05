@@ -1,0 +1,17 @@
+b1: tải file mod skin về tệp hoặc filza
+b2: giải nén file mod skin vừa tải về và nhấn vào thư mục khi nào thấy thư mục Resources cuối cùng thì thôi
+ví dụ: ModSkin.zip -> ModSkin/iOS/Resource/Resource/1.xx.x... (phiên bản) thì chỉ lấy từ: Resource/1.xx.x... (phiên bản)
+b3: nén thành tệp zip file Resource và up lên link Google Drive
+b4: trong quyền truy cập của link chọn bị hạn chế -> bị hạn chế -> chọn bất kỳ ai có đường liên kết để công khai link và sao chép lại link đó
+b5: vào game với menu đã make mod skin, bấm nút mod skin để hiện ra dialog, sau đó nhập link vừa sao chép để dán vào imput của dialog đó
+
+==> DONE !!!
+
+AE MUA HACK TẠI: SHOPDSGM.VN NHÉ!
+
+=> Donet ATM: 
+MB Bank
+666619012006
+TRAN TUAN DUNG
+
+=> Contact: https://zalo.me/tuandung1901
